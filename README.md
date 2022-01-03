@@ -29,5 +29,5 @@
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything
-- 📫 How to reach me: [Whatsapp](https://wa.me/994400378046), [Instagram](https://www.instagram.com/ig.falcon_gfx)
+- 📫 How to reach me: [Whatsapp](https://wa.me/919567489404), [Instagram](https://www.instagram.com/ig.falcon_gfx)
 -->
