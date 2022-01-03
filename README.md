@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://fontmeme.com/among-us-font/"><img src="https://fontmeme.com/temporary/a3a0e483e80d9c92d4000e644a1e70f4.png" alt="among-us-font" border="0"></a>
+<a href="https://fontmeme.com/among-us-font/"><img src="https://fontmeme.com/temporary/e31423db8e5d58ad83cc6ddddeecb4c6.png" alt="among-us-font" border="0"></a>
 
 <p>  
 <p>  
@@ -25,7 +25,7 @@
 
     
 - 😜 I’m Wizard, 14 years old
-- 🔭 I’m currently working on [Lizamwol bot](https://github.com/Dude-Sir/Liza-Mwol)
+- 🔭 I’m currently working on [Kelly Mwol bot](https://github.com/Dude-Sir/Kelly-Mwol)
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything
