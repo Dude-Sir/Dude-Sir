@@ -25,7 +25,7 @@
 
     
 - 😜 I’m Wizard, 14 years old
-- 🔭 I’m currently working on [Kelly Mwol bot](https://github.com/Dude-Sir/Kelly-Mwol)
+- 🔭 I’m currently working on [Lizamwol bot](https://github.com/Dude-Sir/Liza-Mwol)
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything
