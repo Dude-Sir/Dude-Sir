@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://fontmeme.com/among-us-font/"><img src="https://fontmeme.com/temporary/e31423db8e5d58ad83cc6ddddeecb4c6.png" alt="among-us-font" border="0"></a>
+<a href="https://fontmeme.com/among-us-font/"><img src="https://fontmeme.com/permalink/220104/51a1eb98fab7eef1ca87d001b80a9bcb.png" alt="among-us-font" border="0"></a>
 
 <p>  
 <p>  
